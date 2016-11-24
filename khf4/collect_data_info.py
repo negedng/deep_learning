@@ -1,3 +1,9 @@
+## Predownload data:
+# - https://storage.googleapis.com/openimages/2016_08/images_2016_08_v5.tar.gz
+# - https://storage.googleapis.com/openimages/2016_08/machine_ann_2016_08_v3.tar.gz
+##
+
+
 # Open training labels
 
 f = open("assets/dict.csv")
